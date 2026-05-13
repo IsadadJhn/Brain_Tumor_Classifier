@@ -4,7 +4,7 @@ Project AI ini mengklasifikasikan kondisi otak manusia dengan 4 jenis klasifikas
 ---
 ### Deskripsi Project
 Project ini adalah implementasi pytorch dalam pengembangan kecerdasan buatan, khususnya Machine Learning dan Deep Learning. Python Package biasanya digunakan untuk- mengolah data besar.
-Contoh penggunaan:
+Contoh penggunaan:\
 Deteksi gambar\
 Prediksi Data\
 Chatbot AI
