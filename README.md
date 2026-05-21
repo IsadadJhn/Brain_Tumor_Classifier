@@ -1,16 +1,21 @@
 ## Brain Tumor Classification
-Project AI ini mengklasifikasikan kondisi otak manusia dengan 4 jenis klasifikasi yaitu normal,pituitari,meningioma,dan tumor. 
+This project is classified brain condition. There is 4 categories, pituitari,miningonimia, tumor, and normal brain.
 
 ---
-### Deskripsi Project
-Project ini adalah implementasi pytorch dalam pengembangan kecerdasan buatan, khususnya Machine Learning dan Deep Learning. Python Package seperti pytorch dan tensorflow biasanya digunakan untuk- mengolah data besar.
-Contoh penggunaan:\
-Deteksi gambar\
-Prediksi Data\
+## Deskripsi Project
+This project is a pytorch implementation to Artificial Intelligence Development, especially Machine Learning and Deep Learning.Python Package like pytorch and tensorflow usually use to process big data.
+Example of Use:\
+Image Detection\
+Data Prediction\
 Chatbot AI
 ---
-### Setup dan Instalasi
+## Setup and Installation
+### 1. Clone Repository
 
+```bash id="6ncgzj"
+git clone https://github.com/username-kamu/web-summarizer.git
+cd Brain_Image_Classifier
+```
 
 
 
@@ -20,9 +25,9 @@ Chatbot AI
 
 
 ---
-### Kontribusi
-Kontribusi dari siapa pun sangat diterima! 🚀  
-Kalau kamu punya ide, menemukan bug, atau ingin menambahkan fitur baru, jangan ragu untuk ikut berkontribusi.
+### Contribution
+Contributions are welcome! 🚀  
+if you have an idea, find bugs, or want to add new features, feel free to contribute
 > Keep Coding, Stay Curious, and Never Stop Learning🚀!
 
 
