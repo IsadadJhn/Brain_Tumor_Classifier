@@ -1,9 +1,8 @@
 ## Brain Tumor Classification
 This project is classified brain condition. There is 4 categories, pituitari,miningonimia, tumor, and normal brain.
 
----
 ## Deskripsi Project
--
+
 This project is a pytorch implementation to Artificial Intelligence Development, especially Machine Learning and Deep Learning.Python Package like pytorch and tensorflow usually use to process big data.
 Example of Use:
 1. Image Detection
