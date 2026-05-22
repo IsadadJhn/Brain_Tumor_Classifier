@@ -1,5 +1,5 @@
 ## Brain Tumor Classification
-This project is classified brain condition. There is 4 categories, pituitari,miningonimia, tumor, and normal brain.
+This project is classified brain condition. There is 4 categories, glioma, meningioma, no tumor, and pituitary.
 
 ---
 ## Deskripsi Project
