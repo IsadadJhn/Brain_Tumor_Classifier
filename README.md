@@ -17,12 +17,18 @@ Example of Use:
 - torchvision
 - matplotlib
 - Anaconda for Python Distribution
+  [Download Anaconda](https://www.anaconda.com/download)
 ## Setup and Installation
 ### 1. Clone Repository
 
 ```bash id="6ncgzj"
 [git clone https://github.com/IsadadJhn/Brain_Tumor_Classifier.git]
 cd Brain_Image_Classifier
+```
+### 2. Dataset
+```bash id="6ncgzj"
+This project is uses a dataset from kaggle
+[Download Here](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
 ```
 ### 2. Install Dependency
 ```bash id="6ncgzj"
