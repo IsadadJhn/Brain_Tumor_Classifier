@@ -29,7 +29,7 @@ cd Brain_Image_Classifier
 This project is uses a dataset from kaggle
 [Download Here](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
 
-### 2. Install Dependency
+### 3. Install Dependency
 ```bash id="6ncgzj"
 pip/pip3 install torch torchvision matplotlib jupyterlab 
 ```
