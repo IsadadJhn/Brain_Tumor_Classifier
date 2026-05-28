@@ -2,7 +2,7 @@
 This project is classified brain condition. There is 4 categories, glioma, meningioma, no tumor, and pituitary.
 
 ---
-## Deskripsi Project
+## About Project
 
 This project is a pytorch implementation to Artificial Intelligence Development, especially Machine Learning and Deep Learning.Python Package like pytorch and tensorflow usually use to process big data.
 Example of Use:
