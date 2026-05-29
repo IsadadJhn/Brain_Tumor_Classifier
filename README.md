@@ -52,16 +52,3 @@ Brain_Tumor_Classifier.ipynb
 Contributions are welcome! 🚀  
 if you have an idea, find bugs, or want to add new features, feel free to contribute
 > Keep Coding, Stay Curious, and Never Stop Learning🚀!
-
-
-
-
-
-
-
-
-
-
-
-
-```
